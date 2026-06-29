@@ -1,5 +1,5 @@
 ## Yu-Gi-Oh | Jo-ken-po Edition
-Jogo de jokenpo que reproduzi juntamente ao professor para aprender conceitos de lógica de programação aplicados a jogos.
+Jogo de jokenpo que reproduzi para aprender conceitos de lógica de programação aplicados a jogos.
 
 Conceitos abordados:
 
